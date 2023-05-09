@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello! Welcome to my profile
+## My name is Bruno
 
-<!--
-**brunnbb/brunnbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I’m currently learning java 😔 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+         
+- 👯 I’m looking to collaborate on anything really
+- 📫 How to reach me: discordapp.com/users/246803686355894273
+- 😄 Pronouns: he/him
+- 👷 I was studying to become a civil engineer but then i decided to change careers
+
+
+          
