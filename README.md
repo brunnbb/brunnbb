@@ -1,8 +1,7 @@
 # Hello! Welcome to my profile
 ## My name is Bruno
 
-
-## I’m currently learning java 😔 
+# I’m currently learning java 😔 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
          
