@@ -5,7 +5,6 @@
 
 - 💻 I'm computer science student        
 - 👯 I’m looking to collaborate on anything really
-- 👷 I was studying to become a civil engineer, but then I decided to change careers
 - 📫 How to reach me:
 <div>
 <a href = "mailto:brunobbianchini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
